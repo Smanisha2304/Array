@@ -18,4 +18,5 @@ class Solution {
         
         return a[a.length/2];
     }
+
 }
