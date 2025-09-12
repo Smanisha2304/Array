@@ -7,7 +7,7 @@ class Solution {
         {
             set.add(num);
         } 
-        if(set.size()<3)
+        if(set.size()<3) 
         {
             return set.first();
         }
@@ -19,3 +19,4 @@ class Solution {
     }
 
 }
+
