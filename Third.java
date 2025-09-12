@@ -6,7 +6,7 @@ class Solution {
         for(int num:nums)
         {
             set.add(num);
-        }
+        } 
         if(set.size()<3)
         {
             return set.first();
@@ -17,4 +17,5 @@ class Solution {
 
 
     }
+
 }
